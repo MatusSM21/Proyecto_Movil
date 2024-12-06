@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primaryColor">#6200EE</color> <!-- Color primario -->
+    <color name="primaryDarkColor">#3700B3</color> <!-- Color primario oscuro -->
+    <color name="accentColor">#03DAC5</color> <!-- Color de acento -->
+    <color name="background_primary">#F3F4F6</color> <!-- Gris claro -->
+    <color name="background_secondary">#E8EAED</color> <!-- Gris más claro -->
+    <color name="card_background_income">#C8E6C9</color> <!-- Verde claro -->
+    <color name="card_background_expense">#FFCDD2</color> <!-- Rojo claro -->
+    <color name="text_primary">#212121</color> <!-- Negro suave -->
+    <color name="text_secondary">#757575</color> <!-- Gris oscuro -->
+</resources>
+

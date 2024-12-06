@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FinanSmart</string>
+    <string name="balance_general">Balance General: $0.00</string>
+    <string name="monto_hint">Monto (ej: 500.00)</string>
+    <string name="categoria_hint">Categoría (ej: Caja, Alimentos)</string>
+    <string name="registrar_ingreso">Registrar Ingreso</string>
+    <string name="registrar_gasto">Registrar Gasto</string>
+    <string name="transacciones_recientes">Transacciones Recientes:</string>
+    <string name="no_transacciones">No hay transacciones registradas aún.</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="username_hint">Nombre de usuario</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="welcome_message">Bienvenido a FinanSmart</string>
+</resources>
